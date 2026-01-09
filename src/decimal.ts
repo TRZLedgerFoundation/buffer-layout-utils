@@ -1,4 +1,4 @@
-import { Layout } from '@solana/buffer-layout';
+import { Layout } from '@trezoa/buffer-layout';
 import BigNumber from 'bignumber.js';
 import { encodeDecode } from './base';
 import { u128 } from './bigint';

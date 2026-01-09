@@ -1,8 +1,8 @@
 {
-    "name": "@solana/buffer-layout-utils",
+    "name": "@trezoa/buffer-layout-utils",
     "version": "0.2.0",
-    "author": "Solana Maintainers <maintainers@solana.foundation>",
-    "repository": "https://github.com/solana-labs/buffer-layout-utils",
+    "author": "Trezoa Maintainers <maintainers@trezoa.foundation>",
+    "repository": "https://github.com/trezoa-team/buffer-layout-utils",
     "license": "Apache-2.0",
     "engines": {
         "node": ">= 10"
@@ -39,8 +39,8 @@
         "prepare": "yarn build"
     },
     "dependencies": {
-        "@solana/buffer-layout": "^4.0.0",
-        "@solana/web3.js": "^1.32.0",
+        "@trezoa/buffer-layout": "^4.0.0",
+        "@trezoa/web3.js": "^1.32.0",
         "bigint-buffer": "^1.1.5",
         "bignumber.js": "^9.0.1"
     },

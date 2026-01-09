@@ -1,5 +1,5 @@
-import { blob, Layout } from '@solana/buffer-layout';
-import { PublicKey } from '@solana/web3.js';
+import { blob, Layout } from '@trezoa/buffer-layout';
+import { PublicKey } from '@trezoa/web3.js';
 import { encodeDecode } from './base';
 
 export const publicKey = (property?: string): Layout<PublicKey> => {
