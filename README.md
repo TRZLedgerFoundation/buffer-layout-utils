@@ -38,7 +38,7 @@ import {
 
 ## API Documentation
 
-Documentation is generated automatically and will be available at the project's documentation site.
+Documentation is generated automatically and will be available at the trezoa's documentation site.
 
 ## Development
 
